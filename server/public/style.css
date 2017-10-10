@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: gray;
+}
+
+thead {
+  color: gray;
+  border-color: gray;
+  border-collapse: collapse;
+}
+tbody {
+  color: gray;
+}
